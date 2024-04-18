@@ -11,7 +11,7 @@ Engaging Amphipolis board game implementation using Java technology.
 
 ## Screenshots
 
-![Screenshot1](Screenshots\screen1.png) ![Screenshot2](Screenshots\screen2.png)
+![Screenshot1](Screenshots/screen1.png) ![Screenshot2](Screenshots/screen2.png)
 
 
 ## Instalation and Play
