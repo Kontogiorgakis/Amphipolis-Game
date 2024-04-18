@@ -5,7 +5,13 @@ Engaging Amphipolis board game implementation using Java technology.
 ## Introduction
 
 
-"Amphipolis" is a Java game project that serves as a comprehensive learning experience in Java programming. Through its development, valuable insights into problem-solving, project structuring, and debugging techniques are gained. Delving into object-oriented programming principles, it provides practical exposure to implementing game mechanics and user interactions. With a focus on Java syntax, data structures, and algorithms, "Amphipolis" fosters a deeper understanding of programming concepts while honing practical skills in game development.
+"Amphipolis" is a Java game project that offers an immersive learning journey in Java programming. From problem-solving to project structuring and debugging, it provides invaluable insights. Through its development, one gains practical experience in object-oriented programming, game mechanics, and user interactions. By focusing on Java syntax, data structures, and algorithms, "Amphipolis" enhances understanding of programming concepts while honing game development skills. Additionally, the project includes UML diagrams derived from the game for further analysis and documentation.
+
+
+
+## Screenshots
+
+![Screenshot1](Screenshots\screen1.png) ![Screenshot2](Screenshots\screen2.png)
 
 
 ## Instalation and Play
@@ -24,3 +30,15 @@ Engaging Amphipolis board game implementation using Java technology.
 6. Clicking "End Turn" loads the panels for the next player.
 
 7. This process repeats until all 16 landslides are filled.
+
+
+## Contributing
+
+
+Contributions are welcome! If you have any suggestions or improvements for the Amphipolis Game, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+
+
+## License
+
+
+This project is licensed under the [MIT License](LICENSE).
